@@ -5,5 +5,5 @@
  *      Author: gabbo
  */
 #include <iostream>
-
+using namespace std;
 
